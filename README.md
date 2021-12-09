@@ -8,4 +8,7 @@ When you start the app, the camera detects a flat surface, and when you tap the 
 
 [![](https://img.youtube.com/vi/qokauSDNhQ8/0.jpg)](https://www.youtube.com/watch?v=qokauSDNhQ8)
 
+## Detailed explanation article
+[AR Foundationでユニティちゃん召喚スマホアプリを作ってみた - Synamon’s Engineer blog](https://synamon.hatenablog.com/entry/arfoundation-unity-chan)
+
 © Unity Technologies Japan/UCL
